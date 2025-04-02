@@ -2,7 +2,7 @@
 
 Meal Suggester App helps users find something to eat based on the time of day in a fun and interactive way.
 
-## 📌 Features
+## Features
 - Allows user input.
 - Appealing background.
 - Offers a variety of meals.
@@ -13,7 +13,7 @@ Meal Suggester App helps users find something to eat based on the time of day in
 
 ---
 
-## 🛠️ How Was The App Developed?
+## How Was The App Developed?
 This app was built using:
 - **Android Studio** (Development Environment)
 - **Kotlin** (Programming Language)
@@ -23,7 +23,7 @@ This app was built using:
 
 ---
 
-## 📥 Installation Guide
+## Installation Guide
 ### **Requirements:**
 - Android Studio
 - Internet Connection
@@ -40,7 +40,7 @@ This app was built using:
 
 ---
 
-## 🚀 How To Use The App
+## How To Use The App
 1. Open the app.
 2. Tap the field that says **"Example: Morning, Afternoon"**.
 3. Enter the time of day.
@@ -50,7 +50,7 @@ This app was built using:
 
 ---
 
-## 🤖 Automated Testing Using GitHub Actions
+## Automated Testing Using GitHub Actions
 This app has been integrated with **GitHub Actions** to enable automatic testing, making it easier for users. The setup includes:
 - **Unit Testing**
 - **Instrumented Testing**
@@ -75,7 +75,7 @@ The workflow file is located at:
 
 ---
 
-## 📚 References
+## References
 - **Title:** ListOf() in Kotlin with Example  
   **Author:** TechBrainster  
   **Date:** 1 April 2025  
@@ -96,5 +96,5 @@ The workflow file is located at:
 
 ---
 
-📌 *Feel free to contribute to this project by forking the repository and submitting pull requests!*
+ *Feel free to contribute to this project by forking the repository and submitting pull requests!*
 
